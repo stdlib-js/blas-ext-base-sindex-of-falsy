@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-06)
+## Unreleased (2026-10-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`a876b5e`](https://github.com/stdlib-js/stdlib/commit/a876b5e1601b2a3468f428578c03f617504db8d5) - **chore:** follow-up fixes for prior commits [(#13014)](https://github.com/stdlib-js/stdlib/pull/13014) _(by Philipp Burckhardt)_
 -   [`b04b445`](https://github.com/stdlib-js/stdlib/commit/b04b44547cf1514df488d69b906d17338783af75) - **feat:** add `blas/ext/base/sindex-of-falsy` [(#12975)](https://github.com/stdlib-js/stdlib/pull/12975) _(by Muhammad Haris)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
 
